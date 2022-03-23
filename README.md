@@ -2,7 +2,7 @@
 
 <br />
 
-Hello, I'm **Navdeep Kaur**:slightly_smiling_face:, a passionate Automation Engineer. I take great care in the experience, architecture, and code quality of the things I build.
+Hello, I'm **Navdeep Kaur**:slightly_smiling_face:, a passionate Automation Engineer at IBM. I take great care in the experience, architecture, and code quality of the things I build.
 
 I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. 
 
